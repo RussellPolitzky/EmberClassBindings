@@ -61,8 +61,7 @@
     <Content Include="Scripts\Lib\JQuery.js" />
     <Content Include="Scripts\Models\Tweet.js" />
     <Content Include="Scripts\Views\SearchTextField.js" />
-    <Content Include="styles.css" />
-    <Content Include="Styles\Site.css" />
+    <Content Include="Styles\styles.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
